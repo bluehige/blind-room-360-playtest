@@ -1,4 +1,4 @@
-import{e as n}from"./index-Bqfd91sF.js";const l=["영정사진을 찍지 않는 사진관","존재하지 않는 지하 4층","뒤돌아보지 않는 다락방","룸 제로 · 360도의 사각"];function i(){try{const e=JSON.parse(localStorage.getItem("blind-room.meta.v1")||"{}");return Array.isArray(e?.collectedSisterEchoes)?new Set(e.collectedSisterEchoes.filter(a=>typeof a=="string"&&/^BR0[1-5]_ECHO_[1-5]$/.test(a))).size:0}catch{return 0}}function h(e){const o=n.at(-1).cover;e.innerHTML=`<main class="season-hub">
+import{e as n}from"./index-BYf8x3X9.js";const l=["영정사진을 찍지 않는 사진관","존재하지 않는 지하 4층","뒤돌아보지 않는 다락방","룸 제로 · 360도의 사각"];function i(){try{const e=JSON.parse(localStorage.getItem("blind-room.meta.v1")||"{}");return Array.isArray(e?.collectedSisterEchoes)?new Set(e.collectedSisterEchoes.filter(a=>typeof a=="string"&&/^BR0[1-5]_ECHO_[1-5]$/.test(a))).size:0}catch{return 0}}function h(e){const o=n.at(-1).cover;e.innerHTML=`<main class="season-hub">
     <section class="hub-hero" aria-labelledby="season-title">
       <img class="hub-cover" src="./${o}" alt="" fetchpriority="high">
       <div class="hub-mast"><span>BLIND ROOM 360</span><span>진엔딩 파편 <b data-echo-count>${i()}</b> / 5</span></div>
