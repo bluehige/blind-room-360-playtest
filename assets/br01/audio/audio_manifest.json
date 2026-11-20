@@ -5,7 +5,7 @@
   "ttsMetadata": {
     "provider": "gemini-3.8-flash-tts",
     "available": [
-      "Charon",
+      "Riko",
       "Orus",
       "Leda",
       "Algieba",
@@ -14,13 +14,13 @@
       "Algenib"
     ],
     "assigned": {
-      "내레이션": "Charon",
+      "내레이션": "Riko",
       "강시우": "Orus",
       "백설아": "Leda",
       "윤도진": "Algieba",
       "오창석": "Fenrir"
     },
-    "generatedAt": "2026-11-19T08:56:07.710Z",
+    "generatedAt": "2026-11-20T05:39:50.955Z",
     "clipCount": 91
   },
   "bgmCueMap": {
@@ -222,8 +222,8 @@
       "emotion": "calm_ominous",
       "sourceRef": "OPENING_SPLASH_1",
       "path": "voice/V_SPLASH_01.mp3",
-      "bytes": 126266,
-      "durationSec": 7.832,
+      "bytes": 63154,
+      "durationSec": 3.872,
       "phoneCall": false,
       "displayText": "이 기록은 실존하지 않는 밤의 공간에서 복원되었습니다."
     },
@@ -233,8 +233,8 @@
       "emotion": "calm_ominous",
       "sourceRef": "OPENING_SPLASH_2",
       "path": "voice/V_SPLASH_02.mp3",
-      "bytes": 142567,
-      "durationSec": 8.832,
+      "bytes": 73185,
+      "durationSec": 4.512,
       "phoneCall": false,
       "displayText": "사진을 열어 보는 동안, 당신 등 뒤의 것은 움직이지 못합니다."
     },
@@ -244,8 +244,8 @@
       "emotion": "whisper_warn",
       "sourceRef": "OPENING_SPLASH_3",
       "path": "voice/V_SPLASH_03.mp3",
-      "bytes": 104532,
-      "durationSec": 6.472,
+      "bytes": 85306,
+      "durationSec": 5.272,
       "phoneCall": false,
       "displayText": "단, 거울의 틈만큼은 절대 자세히 들여다보지 마십시오."
     },
@@ -255,8 +255,8 @@
       "emotion": "calm_ominous",
       "sourceRef": "B01",
       "path": "voice/V_B01.mp3",
-      "bytes": 591037,
-      "durationSec": 36.872,
+      "bytes": 247892,
+      "durationSec": 15.432,
       "phoneCall": false,
       "displayText": "새벽 한 시 오십 분. 야간 점검 시간으로 복도 등이 꺼진 구도심 〈호텔 녹턴〉 4층에는 눅눅한 카펫 냄새와 깊은 정적이 무겁게 내려앉아 있다. 스마트폰 너머로 의뢰 브로커 윤도진의 나긋나긋한 목소리가 흘러나온다."
     },
@@ -299,8 +299,8 @@
       "emotion": "calm_ominous",
       "sourceRef": "B05",
       "path": "voice/V_B05.mp3",
-      "bytes": 646207,
-      "durationSec": 40.312,
+      "bytes": 444333,
+      "durationSec": 27.712,
       "phoneCall": false,
       "displayText": "통화가 끊기자 복도 끝의 404호 문 앞에 선다. 주머니 속에서 누나 강하연이 남긴 취재 수첩 모서리가 손끝에 닿는다. 1년 전 증발한 누나의 수첩 마지막 장에 밑줄 그어져 있던 건물 목록 중 첫 번째—호텔 녹턴 404호. 윤도진의 의뢰 목록이 누나의 취재 수첩과 똑같다는 걸 눈치챈 뒤로, 실종 단서를 찾기 위해 일부러 이 회사의 현장 조사원 일을 자청해 들어왔다."
     },
@@ -354,8 +354,8 @@
       "emotion": "tense",
       "sourceRef": "B10",
       "path": "voice/V_B10.mp3",
-      "bytes": 197319,
-      "durationSec": 12.272,
+      "bytes": 153852,
+      "durationSec": 9.552,
       "phoneCall": false,
       "displayText": "묵직한 호텔 편지지 위에 네 줄의 투숙 수칙이 인쇄되어 있다. 맨 아랫줄만 잉크 대신 붉은 펜으로 급하게 휘갈겨 적은 손글씨다."
     },
@@ -387,8 +387,8 @@
       "emotion": "tense",
       "sourceRef": "B13",
       "path": "voice/V_B13.mp3",
-      "bytes": 251236,
-      "durationSec": 15.632,
+      "bytes": 167226,
+      "durationSec": 10.392,
       "phoneCall": false,
       "displayText": "고개를 내려 시계를 본 순간, 바늘이 정확히 02시 04분을 밟는다. 그와 동시에 등 뒤 현관문 전자 도어락의 녹색 표시등이 푸른 불꽃을 한 번 튀기더니 완전히 죽어 버린다."
     },
@@ -453,8 +453,8 @@
       "emotion": "tense",
       "sourceRef": "S01_INTRO",
       "path": "voice/V_S01_INTRO.mp3",
-      "bytes": 261267,
-      "durationSec": 16.272,
+      "bytes": 182691,
+      "durationSec": 11.352,
       "phoneCall": false,
       "displayText": "02:04:05 촬영본이 화면에 고정되었다. 사진을 열어 두는 동안 방 안의 움직임은 멈춘다. 화면을 좌우와 위아래로 돌려, 사각에 숨은 진실과 수칙의 모순을 찾자."
     },
@@ -695,8 +695,8 @@
       "emotion": "tense",
       "sourceRef": "B25",
       "path": "voice/V_B25.mp3",
-      "bytes": 258341,
-      "durationSec": 16.072,
+      "bytes": 180601,
+      "durationSec": 11.232,
       "phoneCall": false,
       "displayText": "사진 뷰어를 닫고 마스터 스위치를 내린 찰나. 칠흑 같은 어둠이 방을 덮치는 것과 동시에, 등 뒤 욕실 문틈에서 축축한 타일을 밟고 카펫 위로 올라서는 소리가 난다."
     },
@@ -728,8 +728,8 @@
       "emotion": "tense",
       "sourceRef": "S02_INTRO",
       "path": "voice/V_S02_INTRO.mp3",
-      "bytes": 196065,
-      "durationSec": 12.192,
+      "bytes": 141731,
+      "durationSec": 8.792,
       "phoneCall": false,
       "displayText": "불 꺼진 404호에 두 번째 정지가 걸렸다. 아까 바라보던 각도 그대로 주변을 확인하자. 방 네 곳에 초록빛 야광 기호가 떠올라 있다."
     },
@@ -827,8 +827,8 @@
       "emotion": "tense",
       "sourceRef": "B28",
       "path": "voice/V_B28.mp3",
-      "bytes": 206514,
-      "durationSec": 12.832,
+      "bytes": 133372,
+      "durationSec": 8.272,
       "phoneCall": false,
       "displayText": "네 번째 숫자 6을 누르자 붉은 오류등이 초록색으로 바뀌며 거대한 월넛 옷장이 기계음을 내며 안쪽으로 회전해 열린다."
     },
@@ -860,8 +860,8 @@
       "emotion": "calm_ominous",
       "sourceRef": "S03_INTRO",
       "path": "voice/V_S03_INTRO.mp3",
-      "bytes": 278821,
-      "durationSec": 17.352,
+      "bytes": 155941,
+      "durationSec": 9.672,
       "phoneCall": false,
       "displayText": "마지막 3차 촬영본이 열렸다. 회전한 옷장 너머의 비밀 공간과, 등 뒤 현관 옆에서 미세하게 일렁이는 카메라의 노이즈를 확인하자."
     },
@@ -937,8 +937,8 @@
       "emotion": "calm_ominous",
       "sourceRef": "B37",
       "path": "voice/V_B37.mp3",
-      "bytes": 393342,
-      "durationSec": 24.512,
+      "bytes": 229920,
+      "durationSec": 14.312,
       "phoneCall": false,
       "displayText": "비밀 통로 비상계단으로 빠져나와 백설아의 익명 신고를 받고 출동한 경찰과 함께 다시 4층 복도 404호 앞까지 올라온 직후, 도주를 준비하던 야간 지배인 오창석의 손목에 수갑이 채워졌다."
     },
@@ -1003,8 +1003,8 @@
       "emotion": "tense",
       "sourceRef": "B43",
       "path": "voice/V_B43.mp3",
-      "bytes": 389998,
-      "durationSec": 24.312,
+      "bytes": 302227,
+      "durationSec": 18.832,
       "phoneCall": false,
       "displayText": "스마트폰 화면에 뜬 02:04:00 정각의 4층 복도 CCTV 정지 컷. 긴 복도 끝까지 단 한 명의 사람도 서 있지 않다. 그런데 오직 404호 방문 바로 앞 붉은 카펫 두 군데만 누군가 실제로 딛고 선 것처럼 깊게 푹, 패여 젖어 있다."
     },
@@ -1036,8 +1036,8 @@
       "emotion": "tense",
       "sourceRef": "B46",
       "path": "voice/V_B46.mp3",
-      "bytes": 275060,
-      "durationSec": 17.112,
+      "bytes": 183527,
+      "durationSec": 11.392,
       "phoneCall": false,
       "displayText": "등 뒤가 서늘해지려는 그 찰나, 이어폰 너머 백설아의 통화 배경에서 지금까지보다 훨씬 선명하고 묵직한 저주파 금속 공조기 진동음이 우우웅— 하고 울린다."
     },
@@ -1069,8 +1069,8 @@
       "emotion": "calm_ominous",
       "sourceRef": "EP02_TEASER",
       "path": "voice/V_TEASER_EP02.mp3",
-      "bytes": 593127,
-      "durationSec": 36.992,
+      "bytes": 402955,
+      "durationSec": 25.112,
       "phoneCall": false,
       "displayText": "마네킹들의 오른팔을 만지지 마십시오. 북쪽 깨진 거울에 비친 일곱 번째 그림자만큼은 절대 부르지 마십시오. 404호에서 돌아온 시우에게 걸려 온 두 번째 의뢰—1년 전 질식 사고로 봉인된 지하 방탈출 카페 〈미러 하우스〉. 23시 14분, 방화 셔터가 내려앉은 거울의 방 한가운데서 여섯 개의 마네킹 고개가 일제히 돌아가기 시작한다."
     },
@@ -1080,8 +1080,8 @@
       "emotion": "tense",
       "sourceRef": "EB01",
       "path": "voice/V_EB01.mp3",
-      "bytes": 180601,
-      "durationSec": 11.232,
+      "bytes": 138387,
+      "durationSec": 8.592,
       "phoneCall": false,
       "displayText": "경고를 무시한 손가락이 욕실 거울의 금 간 틈을 끝까지 확대하는 순간, 화면에 정지해 있던 사진이 미세하게 떨리기 시작한다."
     },
@@ -1102,8 +1102,8 @@
       "emotion": "tense",
       "sourceRef": "EB03",
       "path": "voice/V_EB03.mp3",
-      "bytes": 305153,
-      "durationSec": 18.992,
+      "bytes": 216127,
+      "durationSec": 13.432,
       "phoneCall": false,
       "displayText": "사진 속 깨진 거울 가장자리에서 꼼짝 못 하고 박제되어 있던 서리가 일제히 녹아내리며, 거울 속 비친 내 얼굴의 입꼬리만 귀밑까지 천천히 올라가고 눈동자가 액정 너머의 나를 똑바로 마주 본다."
     },
@@ -1124,8 +1124,8 @@
       "emotion": "calm_ominous",
       "sourceRef": "EB05",
       "path": "voice/V_EB05.mp3",
-      "bytes": 339007,
-      "durationSec": 21.112,
+      "bytes": 201917,
+      "durationSec": 12.552,
       "phoneCall": false,
       "displayText": "차가운 손끝이 액정 밖 어둠에서 튀어나와 시우의 손목을 틀어쥔다. 02시 04분, 거울의 틈은 빈자리를 채울 새로운 감시자를 안쪽으로 끌어당겼다."
     },
@@ -1135,8 +1135,8 @@
       "emotion": "calm_ominous",
       "sourceRef": "EB06",
       "path": "voice/V_EB06.mp3",
-      "bytes": 380385,
-      "durationSec": 23.712,
+      "bytes": 212366,
+      "durationSec": 13.193,
       "phoneCall": false,
       "displayText": "다음 날 아침, 404호 문을 열고 들어온 사람은 텅 빈 객실 대신 한쪽 귀퉁이에 성에가 낀 욕실 거울 안쪽에서 자신을 애타게 쳐다보는 또 하나의 낯선 그림자를 보았다."
     },
@@ -1146,8 +1146,8 @@
       "emotion": "tense",
       "sourceRef": "EB07_BED",
       "path": "voice/V_EB07_BED.mp3",
-      "bytes": 236607,
-      "durationSec": 14.712,
+      "bytes": 168062,
+      "durationSec": 10.432,
       "phoneCall": false,
       "displayText": "수칙을 믿고 차가운 침대 이불 속으로 몸을 웅크린 순간, 머리 위 환기구의 팬 회전 속도가 갑자기 두 배로 빨라지며 달짝지근한 안개가 폐부를 가득 채운다."
     },
@@ -1157,8 +1157,8 @@
       "emotion": "tense",
       "sourceRef": "EB07_KEY",
       "path": "voice/V_EB07_KEY.mp3",
-      "bytes": 211530,
-      "durationSec": 13.152,
+      "bytes": 152180,
+      "durationSec": 9.432,
       "phoneCall": false,
       "displayText": "세 번째 오류 경고음이 울린 순간 손끝의 힘이 풀리며 스마트폰을 카펫 위로 떨어뜨린다. 고농축 수면가스가 시야를 새하얗게 지워 간다."
     },
@@ -1179,8 +1179,8 @@
       "emotion": "calm_ominous",
       "sourceRef": "EB09",
       "path": "voice/V_EB09.mp3",
-      "bytes": 288852,
-      "durationSec": 17.992,
+      "bytes": 151344,
+      "durationSec": 9.392,
       "phoneCall": false,
       "displayText": "무거운 눈꺼풀 너머로 월넛 옷장이 스르르 안쪽으로 열리며, 검은 구두를 신은 야간 지배인이 산소 마스크를 쓴 채 천천히 걸어 나온다."
     },
@@ -1201,8 +1201,8 @@
       "emotion": "calm_ominous",
       "sourceRef": "EB11",
       "path": "voice/V_EB11.mp3",
-      "bytes": 291360,
-      "durationSec": 18.152,
+      "bytes": 159703,
+      "durationSec": 9.912,
       "phoneCall": false,
       "displayText": "남자가 시우의 손에서 ‘옵티카-360’을 떼어 내자, 방금 전까지 묶여 있던 욕실 쪽 차가운 한기가 서서히 시우의 발끝으로 기어 온다."
     },
@@ -1212,8 +1212,8 @@
       "emotion": "calm_ominous",
       "sourceRef": "EB12",
       "path": "voice/V_EB12.mp3",
-      "bytes": 281329,
-      "durationSec": 17.512,
+      "bytes": 165554,
+      "durationSec": 10.272,
       "phoneCall": false,
       "displayText": "다음 날 정오 체크아웃 명부에서 404호 손님의 이름은 사라졌고, 비밀 방 구석에 또 하나의 주인 잃은 짐가방이 묵묵히 쌓였다."
     }
